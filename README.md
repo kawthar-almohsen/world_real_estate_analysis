@@ -113,7 +113,3 @@ We created different types of charts to explain insights clearly:
 ## ✅ Conclusion
 
 This project shows how **data-driven analysis** can uncover market patterns and provide actionable insights in real estate. By combining Python data analysis with clear visualization and business framing, we created a foundation for smarter investment and development strategies worldwide.
-
----
-
-⚡ Do you also want me to add a **Getting Started section with setup commands** (like `pip install pandas matplotlib seaborn` and `jupyter notebook`) so your instructor can run your notebooks easily?
